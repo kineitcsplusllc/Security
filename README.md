@@ -1,14 +1,9 @@
-[![Report a Vulnerability](https://img.shields.io/badge/Report%20a%20Vulnerability-Contact%20Security-red?style=for-the-badge&logo=github)](mailto:security@kineticsplusllc.com)
-
-[![Security Disclosure](https://img.shields.io/badge/Security-Responsible%20Disclosure-blue?style=flat-square)](./SECURITY.md)
-
-![Policy Version](https://img.shields.io/badge/Policy%20Version-1.0-blue?style=for-the-badge)
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--01--01-green?style=for-the-badge)
-
 ![Policy Version](https://img.shields.io/badge/Policy%20Version-1.0-blue?style=flat-square)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--01--01-green?style=flat-square)
 [![Report a Vulnerability](https://img.shields.io/badge/Report%20a%20Vulnerability-security%40kineticsplusllc.com-red?style=flat-square)](mailto:security@kineticsplusllc.com)
+
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--01--01-green?style=for-the-badge)
+
 
 # Kinetics Plus LLC – Security & Responsible Disclosure
 
