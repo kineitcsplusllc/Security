@@ -1,7 +1,7 @@
 Responsible Vulnerability Disclosure Policy
 
 Kinetics Plus LLC
-Effective Date: ___________________
+Effective Date: 10/01/2025
 
 1. Purpose
 
