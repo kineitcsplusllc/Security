@@ -86,12 +86,12 @@ Accidental access to sensitive data is protected under Safe Harbor if immediatel
 
 If this repository is published using GitHub Pages, the policy will also be available online at:
 
-https://<your-org>.github.io/<repo-name>/
+(https://kineitcsplusllc.github.io/Security/)
 
 yaml
 Copy code
 
-(Replace with your actual URL once GitHub Pages is enabled.)
+(https://kineitcsplusllc.github.io/Security/)
 
 ---
 
